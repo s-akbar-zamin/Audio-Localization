@@ -1,0 +1,12 @@
+a_b_c_d
+a = direction (maybe)
+b = game
+c = sound
+d = count
+
+
+
+for d: {1-76: sound1,
+        77-113: sound2,
+        114-243: sound3,
+        244-295: sound4}
