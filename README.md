@@ -14,10 +14,9 @@ In summary:
   1. A person (left) can localize the source (left or right) of a sound depending on each ear's processing of amplitude and the difference in time they process the sound
   2. A continuous, audio waveform (middle top, in blue) is sampled at 48 kHz by our headset / audio device (red dots on blue waveform) to produce a waveform of discrete arbitrary values (red waveform with volume and 48,000 on the y and x-axis, respectively)
   3. This complex, audio waveform is composed of several different waveforms of a single frequency. It can be decomposed into these frequencies and plotted as a frequency distribution using short time fourier transforms (STFT, and in purple)
-  4. This frequency distribution is a description of the sound at one instant. Performing this operation for a longer duration of time and plotting them together as an array, where higher values indicate more frequencies in the bin, produces an interpretable image of sound
-  5. 
-  6. This image, or spectrogram, can be scaled appropriately to the human hearing scale
-  7. This is done for both left and right audio channels
+  4. This frequency distribution is a description of the sound at one instant. Performing this operation for over time, plotting them together as an array (using first in, first out sorting), where higher values indicate more frequencies in the bin, produces an interpretable image of sound
+  5. This image, or spectrogram, can be scaled appropriately to the human hearing scale
+  6. This is done for both left and right audio channels
 
 Below, I've included some mel spectrograms and a few comments justifying what is seen in the image.
 
