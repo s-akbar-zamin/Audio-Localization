@@ -10,7 +10,7 @@ I used Microsoft Paint to explain the project to another friend. I've shared the
 
 ![Background](https://github.com/user-attachments/assets/36139fbf-a454-4165-b47f-20e3b8937f2b)
 
-In brief:
+In summary:
   1. A person (left) can localize the source (left or right) of a sound depending on each ear's processing of amplitude and the difference in time they process the sound
   2. A continuous, audio waveform (middle top, in blue) is sampled at 48 kHz by our headset / audio device (red dots on blue waveform) to produce a waveform of discrete arbitrary values (red waveform with volume and 48,000 on the y and x-axis, respectively)
   3. This complex, audio waveform is composed of several different waveforms of a single frequency. It can be decomposed into these frequencies and plotted as a frequency distribution using short time fourier transforms
