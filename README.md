@@ -18,6 +18,8 @@ In summary:
   5. This image, or spectrogram, can be scaled appropriately to the human hearing scale
   6. This is done for both left and right audio channels
 
+# Sample mel spectrograms
+
 Below, I've included some mel spectrograms and a few comments justifying what is seen in the image.
 
 https://github.com/user-attachments/assets/07d389ae-36c7-4fe0-833e-8894a287acc0
