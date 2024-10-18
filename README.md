@@ -34,4 +34,4 @@ Scattered, diffuse alternating color represent low, non-zero values due to norma
 
 ☝️🤓 "But Akbar, the time axis is not an accurate representation of real-time!"
 
-Great observation. For our purposes, this is fine. The image, or audio buffer, occupies enough time to be able to sufficiently identify sounds.
+Great observation. For our purposes, this is fine. The image, or audio buffer, occupies enough time to be able to sufficiently identify sounds. *possibly comment about data prep and masking*
