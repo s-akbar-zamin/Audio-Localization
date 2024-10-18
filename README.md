@@ -6,7 +6,8 @@ I did this project between research to develop my programming and machine learni
 
 # From theory to signal to data
 
-Over conversation with a friend, I used Microsoft Paint to explain the project. I've shared this same image here.
+I used Microsoft Paint to explain the project to another friend. I've shared the image here.
+
 ![Background](https://github.com/user-attachments/assets/36139fbf-a454-4165-b47f-20e3b8937f2b)
 
 Below, I've included some mel spectrograms and a few comments justifying what is seen in the image.
