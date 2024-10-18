@@ -6,7 +6,7 @@ I did this project between research to develop my programming and machine learni
 
 # From theory to signal to data
 
-I used Microsoft Paint to explain the project to another friend. I've shared the image, however usefull or useless, here. :smirk:
+I used Microsoft Paint to explain the project to another friend. I've shared the image, however useful or useless (:smirk:), here.
 
 ![Background](https://github.com/user-attachments/assets/36139fbf-a454-4165-b47f-20e3b8937f2b)
 
