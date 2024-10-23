@@ -40,4 +40,7 @@ Scattered, diffuse alternating color represent low, non-zero values due to norma
 
 Great observation. For our purposes, this is fine. The image, or audio buffer, occupies enough time to be able to sufficiently identify sounds.
 
+# Neural Network Architecture
+
+*Upload in progress*
 
