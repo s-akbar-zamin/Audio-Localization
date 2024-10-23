@@ -8,7 +8,7 @@ For more detail, see below!
 
 # From theory to signal to data
 
-I used Microsoft Paint to explain the project to another friend. Because this is informal, I've attached it here. :smirk:
+I used Microsoft Paint to explain the project to another friend. I've attached it here.
 
 ![Background](https://github.com/user-attachments/assets/36139fbf-a454-4165-b47f-20e3b8937f2b)
 
