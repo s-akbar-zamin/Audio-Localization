@@ -36,10 +36,6 @@ https://github.com/user-attachments/assets/2c9ce539-a231-4512-a4d0-ddffdac84116
 
 Scattered, diffuse alternating color represent low, non-zero values due to normalization
 
-☝️🤓 "But Akbar, the time axis is not an accurate representation of real time!"
-
-Great observation. For our purposes, this is fine. The image, or audio buffer, occupies enough time to be able to sufficiently identify sounds.
-
 # Neural Network Architecture
 
 *Upload in progress*
