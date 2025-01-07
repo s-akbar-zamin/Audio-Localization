@@ -38,5 +38,7 @@ Scattered, diffuse alternating color represent low, non-zero values due to norma
 
 # Neural Network Architecture
 
-*Upload in progress*
+![image](https://github.com/user-attachments/assets/f09c379f-5a74-4304-83c8-fada452b540c)
+
+This architecture describes the first neural network I used. The graphic was created using http://alexlenail.me/NN-SVG/AlexNet.html
 
